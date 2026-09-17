@@ -128,29 +128,6 @@ Reusable components over duplicated logic
 Clear documentation over assumptions
 ```
 
----
-
-## 📊 GitHub Activity
-
-You can explore my repositories, projects, and development activity directly through my GitHub profile.
-
-<p align="center">
-  <a href="https://github.com/ahsanmughal757?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View repositories"
-    />
-  </a>
-  <a href="https://github.com/ahsanmughal757?tab=overview">
-    <img
-      src="https://img.shields.io/badge/View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub profile"
-    />
-  </a>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in full-stack development opportunities, practical software projects, and meaningful technical collaborations.
