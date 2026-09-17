@@ -2,23 +2,21 @@
 
 # Muhammad Ahsan Ali
 
-### Full-Stack Developer | React.js • Next.js • Node.js • TypeScript
+### Full Stack Developer • React • Next.js • Node.js • TypeScript
 
-Building scalable web applications, fintech platforms, analytics dashboards, and SaaS products.
+Building practical web applications, business dashboards, SaaS products, and API-driven systems.
 
 <p>
   <a href="https://ahsanali.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/muhammad-ahsan-ali-5a6358211/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
   </a>
   <a href="mailto:ahsanmg1998@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ahsanmughal757&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
 
@@ -26,170 +24,124 @@ Building scalable web applications, fintech platforms, analytics dashboards, and
 
 ## 👋 About Me
 
-I'm a Full-Stack Developer from Faisalabad, Pakistan, with 4 years of experience designing and building web applications across modern JavaScript and TypeScript technologies.
+I'm a Full Stack Developer from Pakistan, focused on building reliable and maintainable web applications.
 
-I work across the full application lifecycle—from translating business requirements and designing interfaces to developing APIs, integrating databases, implementing authentication, optimizing performance, and supporting deployments.
+I enjoy working across the complete application lifecycle—from designing responsive interfaces and developing REST APIs to modeling databases, implementing authentication, and deploying production-ready applications.
 
-My professional experience includes fintech systems, investor-facing analytics, KPI dashboards, accounting workflows, and end-to-end applications for freelance clients.
+My main work includes:
 
-- Delivered full-stack solutions for **15+ clients**
-- Developed fintech dashboards covering fund applications, disbursements, subscribers, and recurring revenue
-- Worked with cross-functional teams on analytical and business applications
-- Experienced with MVC architecture, REST APIs, CI/CD, database optimization, and Agile development
-- Interested in AI agents, OpenAPI, context engineering, and practical AI integrations
+- Web applications and SaaS platforms
+- Fintech and financial workflows
+- Analytics dashboards and data visualization
+- REST API design and backend architecture
+- Database-driven applications
+- Clean, reusable, and maintainable code
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Technologies I Work With
 
-### Languages and Frameworks
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,nodejs,express,django" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
-### Databases, Backend, and Authentication
+### Backend and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis" alt="Databases and backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" alt="Backend and database technologies" />
 </p>
 
-- REST APIs
-- JWT authentication
-- Clerk Auth
-- Webhooks
-- MongoDB aggregation pipelines
-- PostgreSQL data modeling
-- Mongoose
-- Cron jobs and scheduled data processing
-
-### UI, Tools, and Development Workflow
+### Tools and Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,docker,postman,vercel,vscode" alt="Tools and UI technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" alt="Development tools" />
 </p>
 
-- Material UI (MUI)
-- Redux
-- GitHub Actions and CI/CD
-- MVC architecture
-- Object-oriented programming
-- Agile methodology
-- Miro and Draw.io for architecture diagrams
-- Notion for planning and documentation
+---
 
-### Emerging Interests
+## 🚀 Selected Work
 
-- AI agents
-- OpenAPI
-- Anthropic and other AI integrations
-- Context engineering
+### 📊 Business Dashboards and Data Applications
+
+Developed dashboard-oriented applications involving business metrics, data visualization, API-driven screens, and operational workflows.
+
+**Focus areas:**
+
+- Reusable dashboard components
+- Data fetching and transformation
+- KPI presentation and chart integration
+- Responsive layouts
+- Backend API integration
 
 ---
 
-## 🚀 Featured Professional Work
+### 🧾 SaaS and Business Management Applications
 
-### 📊 InvoiceMate — Fintech Platform
+Working on full-stack SaaS concepts involving authentication, organizations, business records, financial workflows, and database-backed operations.
 
-An invoice financing platform supporting fund application and disbursement workflows.
+**Focus areas:**
 
-**Contributions and technical focus:**
-
-- Built frontend functionality with React, Next.js, and Material UI
-- Implemented sign-up and sign-in using JWT authentication
-- Integrated Google reCAPTCHA to help prevent automated sign-ins
-- Developed fintech APIs using Node.js and MongoDB
-- Implemented KPI data for fund applications, disbursements, subscriber insights, and revenue tracking
-- Built filtering and pagination APIs using Mongoose aggregation queries
-- Added database indexes to improve query performance
-- Developed cron jobs and scheduled data-processing workflows
-- Worked with PostgreSQL-based accounting functionality for balance sheets and account management
-- Supported deployment workflows through GitHub Actions
-
-> Some professional project code and data may be private or subject to confidentiality restrictions.
+- Role-aware application workflows
+- CRUD operations and validation
+- Database modeling
+- Authentication and authorization
+- Maintainable frontend and backend structure
 
 ---
 
-### 📈 InvoiceMate — Investor Dashboard
+### 🔌 Backend APIs and Integrations
 
-A standalone investor-facing analytics dashboard designed to present fund performance and business KPIs separately from the core platform.
+Building and practicing backend systems with Node.js and Express, with emphasis on clean API boundaries and reliable data handling.
 
-**Key areas:**
+**Focus areas:**
 
-- Investor-facing analytics
-- Business performance metrics
-- Fund-related reporting
-- Data aggregation and dashboard presentation
-- API-driven data fetching
-- Performance-focused querying and caching
-
----
-
-### 🧾 Invoxa — Invoicing SaaS
-
-An invoicing SaaS application for small businesses, developed end-to-end from data modeling to user interface.
-
-**Key areas:**
-
-- Business-focused SaaS workflows
-- Invoice and customer management
-- Database-backed application functionality
-- Frontend and backend integration
-- Maintainable application structure
+- REST API design
+- Request validation
+- Error handling
+- Database integration
+- Authentication-aware endpoints
+- Separation of routes, controllers, and business logic
 
 ---
 
-## 💼 Professional Experience Snapshot
+## 🧠 Currently Improving
 
-| Role | Organization / Engagement | Period |
-|---|---|---|
-| Full Stack Developer — Fintech Systems | Synergic Professionals | Jul 2023 – May 2026 |
-| MERN Stack Developer | Freelance | Apr 2021 – May 2023 |
-| Frontend Developer | Business IT Solutions | Oct 2020 – Feb 2021 |
+- Advanced React and Next.js patterns
+- TypeScript for full-stack applications
+- Backend architecture and API security
+- PostgreSQL database design
+- Testing and debugging workflows
+- Application performance and scalability
+- Deployment and CI/CD practices
 
 ---
 
-## 🧠 What I Focus On
+## 📌 Development Principles
 
 ```text
-Business requirements → System design → Frontend → APIs → Database → Deployment
+Readable code over clever code
+Real business requirements over unnecessary complexity
+Secure data handling over convenience
+Reusable components over duplicated logic
+Clear documentation over assumptions
 ```
 
-I aim to build software that is:
-
-- Maintainable
-- Secure
-- Performant
-- Easy to understand
-- Aligned with real business requirements
-- Structured for future development
-
 ---
 
-## 📚 Currently Improving
-
-- Advanced React and Next.js architecture
-- TypeScript in large full-stack applications
-- PostgreSQL and database optimization
-- API security and scalable backend design
-- Automated testing and debugging
-- Performance optimization and caching
-- AI-powered developer and business workflows
-
----
-
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=ahsanmughal757&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-  alt="GitHub statistics"
+  alt="Muhammad Ahsan Ali's GitHub statistics"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanmughal757&layout=compact&hide_border=true"
-  alt="Most used languages"
+  alt="Most used programming languages"
 />
 
 </div>
@@ -198,11 +150,11 @@ I aim to build software that is:
 
 ## 🤝 Let's Connect
 
-I'm open to full-stack development opportunities, technical collaborations, and projects involving business applications, SaaS products, dashboards, APIs, and data-driven systems.
+I'm interested in full-stack development opportunities, practical software projects, and meaningful technical collaborations.
 
-- 🌐 [Portfolio](https://ahsanali.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahsan-ali-5a6358211)
-- 📧 [Email](mailto:ahsanmg1998@gmail.com)
+- 🌐 Portfolio: [ahsanali.vercel.app](https://ahsanali.vercel.app)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/muhammad-ahsan-ali-5a6358211/)
+- 📧 Email: [Contact me](mailto:ahsanmg1998@gmail.com)
 
 ---
 
