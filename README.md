@@ -130,21 +130,24 @@ Clear documentation over assumptions
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-<div align="center">
+You can explore my repositories, projects, and development activity directly through my GitHub profile.
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ahsanmughal757&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-  alt="Muhammad Ahsan Ali's GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanmughal757&layout=compact&hide_border=true"
-  alt="Most used programming languages"
-/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ahsanmughal757?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View repositories"
+    />
+  </a>
+  <a href="https://github.com/ahsanmughal757?tab=overview">
+    <img
+      src="https://img.shields.io/badge/View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub profile"
+    />
+  </a>
+</p>
 
 ---
 
