@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • React • Next.js • Node.js • TypeScript
 
-Building practical web applications, business dashboards, SaaS products, and API-driven systems.
+Building practical Web applications, Engineering Software Systems, Analytics Dashboards, Product Solutions and API-driven systems.
 
 <p>
   <a href="https://ahsanali.vercel.app">
